@@ -3,8 +3,8 @@
 ### Install packages, conda:
 
 For omero-py only:\
-conda create -n ompy -c ome python=3.6 zeroc-ice36-python omero-py\
-conda activate ompy
+conda create -n myenv -c ome python=3.6 zeroc-ice36-python omero-py\
+conda activate myenv
 
 Additional:\
 conda install -c conda-forge notebook\
