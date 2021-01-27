@@ -11,7 +11,6 @@ conda activate myenv
 
 Additional:\
 conda install -c conda-forge notebook\
-conda install scipy\
 conda install matplotlib\
 
 ### Install packages, venv:
@@ -23,7 +22,6 @@ pip install omero-py==5.8.1\
 
 Additional:\
 pip install notebook\
-pip install scipy\
 pip install matplotlib\
 
 ### Start jupyter notebook
