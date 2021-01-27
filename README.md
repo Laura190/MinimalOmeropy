@@ -1,5 +1,8 @@
 # MinimalOmeropy
 
+Created for Image Analysis and Computing Drop In 27/01/2021.
+To demonstrate how to connect to OMERO from python and some basic tools.
+
 ### Install packages, conda:
 
 For omero-py only:\
