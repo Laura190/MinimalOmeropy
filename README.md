@@ -23,7 +23,6 @@ pip install omero-py==5.8.1\
 
 Additional:\
 pip install notebook\
-pip install scipy\
 pip install matplotlib\
 
 ### Start jupyter notebook
