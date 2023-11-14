@@ -6,13 +6,13 @@ To demonstrate how to connect to OMERO from python and some basic tools.
 ### Install packages, conda:
 
 For omero-py only:\
-conda create -n myenv -c ome python=3.6 zeroc-ice36-python omero-py\
+conda create -n myenv -c ome python=3.8 omero-py\
 conda activate myenv
 
 Additional:\
 conda install -c conda-forge notebook\
 conda install scipy\
-conda install matplotlib\
+conda install matplotlib
 
 ### Install packages, venv:
 
